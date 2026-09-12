@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.csproj" Id="65010b12-bc68-4e65-9f97-640b6c0a1b91" />
   <Project Path="BuilderPatternPractice/BuilderPattern.csproj" />
 </Solution>
