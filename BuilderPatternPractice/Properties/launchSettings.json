@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BuilderPatternPractice": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ROOT_X64": "C:\\dotnet\\dotnet-sdk-8.0.425-win-x64"
+      }
+    }
+  }
+}
