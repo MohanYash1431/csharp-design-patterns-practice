@@ -62,23 +62,4 @@
             }
         }
     }
-
-    //public class Program
-    //{
-    //    public static void Main(string[] args)
-    //    {
-    //        var notificationRequest = new InspectionNotificationRequest.Builder("Inspection Alert", "Your inspection is scheduled for tomorrow.", Guid.NewGuid())
-    //            .SetTopic("Safety Inspection")
-    //            .SetCardNumber("1234-5678-9012-3456")
-    //            .SetIsImportant(true)
-    //            .Build();
-    //        Console.WriteLine($"Title: {notificationRequest.Title}");
-    //        Console.WriteLine($"Message: {notificationRequest.Message}");
-    //        Console.WriteLine($"Inspector ID: {notificationRequest.InspectorId}");
-    //        Console.WriteLine($"Topic: {notificationRequest.Topic}");
-    //        Console.WriteLine($"Card Number: {notificationRequest.CardNumber}");
-    //        Console.WriteLine($"Is Important: {notificationRequest.IsImpotant}");
-    //    }
-    //}
-
 }

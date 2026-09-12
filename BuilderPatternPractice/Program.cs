@@ -69,12 +69,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        //var student = new Student.StudentBuilder("John Doe")
-        //    .SetAge(20)
-        //    .SetAddress("123 Main St")
-        //    .SetWallet(100.50m)
-        //    .Build();
-        //Console.WriteLine($"Name: {student.Name}, Age: {student.Age}, Address: {student.Address}, Wallet: {student.Wallet}");
+        var student = new Student.StudentBuilder("John Doe")
+            .SetAge(20)
+            .SetAddress("123 Main St")
+            .SetWallet(100.50m)
+            .Build();
+        Console.WriteLine($"Name: {student.Name}, Age: {student.Age}, Address: {student.Address}, Wallet: {student.Wallet}");
 
         var notificationRequest = new InspectionNotificationRequest.Builder("Inspection Alert", "Your inspection is scheduled for tomorrow.", Guid.NewGuid())
                 .SetTopic("Safety Inspection")
