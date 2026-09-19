@@ -5,4 +5,5 @@
   <Project Path="CompositePattern/CompositePattern.csproj" Id="a6d95254-e2dd-4cfa-9cb5-59d0fb678dbf" />
   <Project Path="DecoratorPattern/DecoratorPattern.csproj" Id="81902e26-429a-4495-9246-bce1130124f7" />
   <Project Path="FacadePattern/FacadePattern.csproj" Id="1abd1e0f-5656-4081-a5c8-286fd36a8b97" />
+  <Project Path="ProxyPattern/ProxyPattern.csproj" Id="9298840a-1862-45e2-9d5e-52aa7dfd5b94" />
 </Solution>
