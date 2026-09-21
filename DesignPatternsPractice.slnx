@@ -7,4 +7,6 @@
   <Project Path="FacadePattern/FacadePattern.csproj" Id="1abd1e0f-5656-4081-a5c8-286fd36a8b97" />
   <Project Path="ObserverPattern/ObserverPattern.csproj" Id="9774ddeb-7c25-4229-881a-a661f0889974" />
   <Project Path="ProxyPattern/ProxyPattern.csproj" Id="9298840a-1862-45e2-9d5e-52aa7dfd5b94" />
+  <Project Path="StatePattern/StatePattern.csproj" Id="f5f4c3db-cb36-493f-ad9d-07bab32a6cf5" />
+  <Project Path="StrategyPattern/StrategyPattern.csproj" Id="aef0883c-94f2-49a9-a137-750833414630" />
 </Solution>
