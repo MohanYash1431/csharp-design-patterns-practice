@@ -2,11 +2,14 @@
   <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.csproj" Id="65010b12-bc68-4e65-9f97-640b6c0a1b91" />
   <Project Path="AdapterPattern/AdapterPattern.csproj" Id="fb9c6127-d892-4c2d-8297-c14a6a0575a1" />
   <Project Path="BuilderPatternPractice/BuilderPattern.csproj" />
+  <Project Path="ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.csproj" Id="3320d4a1-6973-4d88-9656-a18120687394" />
   <Project Path="CompositePattern/CompositePattern.csproj" Id="a6d95254-e2dd-4cfa-9cb5-59d0fb678dbf" />
   <Project Path="DecoratorPattern/DecoratorPattern.csproj" Id="81902e26-429a-4495-9246-bce1130124f7" />
   <Project Path="FacadePattern/FacadePattern.csproj" Id="1abd1e0f-5656-4081-a5c8-286fd36a8b97" />
+  <Project Path="FactoryPattern/FactoryPattern.csproj" Id="3a69056e-0762-4adc-ab08-d31138d3b63e" />
   <Project Path="ObserverPattern/ObserverPattern.csproj" Id="9774ddeb-7c25-4229-881a-a661f0889974" />
   <Project Path="ProxyPattern/ProxyPattern.csproj" Id="9298840a-1862-45e2-9d5e-52aa7dfd5b94" />
+  <Project Path="SingletonPattern/SingletonPattern.csproj" Id="53008b48-2dcc-40bc-ae29-e8a69afe28c2" />
   <Project Path="StatePattern/StatePattern.csproj" Id="f5f4c3db-cb36-493f-ad9d-07bab32a6cf5" />
   <Project Path="StrategyPattern/StrategyPattern.csproj" Id="aef0883c-94f2-49a9-a137-750833414630" />
 </Solution>
